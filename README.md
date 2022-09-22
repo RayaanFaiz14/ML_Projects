@@ -1,1 +1,1 @@
-# ML_Projects
+# Pima Indian Diabetes(KNN CLASSIFICATION)
